@@ -11,4 +11,4 @@ win7
 
 ## 效果图
 ![1](screenshots/1.png)
-![2](screenshots/1.png)
+![2](screenshots/2.png)
